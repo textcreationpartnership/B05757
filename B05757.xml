@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The determination of the qvestion, concerning the divine right of episcopacie. By the famous and learned divine Dr. Abrahamus Scultetus, late professour of divinity in the University of Heidelberg. Faithfully translated out of his observations upon the epistles to Timothy and Titus.</title>
+            <author>Scultetus, Abraham, 1566-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05757</idno>
+            <idno type="STC">Wing S2165A</idno>
+            <idno type="STC">ESTC R183638</idno>
+            <idno type="EEBO-CITATION">51784666</idno>
+            <idno type="OCLC">ocm 51784666</idno>
+            <idno type="VID">175070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175070)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The determination of the qvestion, concerning the divine right of episcopacie. By the famous and learned divine Dr. Abrahamus Scultetus, late professour of divinity in the University of Heidelberg. Faithfully translated out of his observations upon the epistles to Timothy and Titus.</title>
+                  <author>Scultetus, Abraham, 1566-1624.</author>
+               </titleStmt>
+               <extent>[2], 169-182 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Butler,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verso of t.p. contains marginal notes.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Episcopacy --  History of doctrines --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Apostolic succession --  History of doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175070:1" rendition="simple:additions"/>
+            <pb facs="tcp:175070:1" rendition="simple:additions"/>
+            <pb facs="tcp:175070:2"/>
+            <pb facs="tcp:175070:2"/>
+            <pb facs="tcp:175070:3"/>
+            <p>
+               <pb facs="tcp:175070:3" rendition="simple:additions"/>
+THE DETERMINATION OF THE QVESTION, Concerning the <hi>Divine Right</hi> of <hi>Epiſcopacie.</hi>
+            </p>
+            <p>By the famous and learned Divine Dr. <hi>Abrahamus Scultetus,</hi> late Profeſſour of Divinity in the Univerſity of <hi>Heidelberg.</hi>
+            </p>
+            <p>Faithfully tranſlated out of his Obſervati<g ref="char:EOLhyphen"/>ons upon the Epiſtles to <hi>Timothy</hi> and <hi>Titus.</hi>
+            </p>
+            <figure>
+               <figDesc>⚜</figDesc>
+            </figure>
+            <p>LONDON, Printed for NATHANIEL BUTTER. 1641.</p>
+            <pb facs="tcp:175070:4" rendition="simple:additions"/>
+         </div>
+         <div type="to_the_reader">
+            <pb n="169" facs="tcp:175070:4"/>
+            <head>An Advertiſement to the Reader.</head>
+            <p>
+               <seg rend="decorInit">K</seg>Now Reader, that where<g ref="char:EOLhyphen"/>as in one of thoſe many angry Pamphlets, vv<hi rend="sup">ch</hi> have beene lately publiſhed, there is an intimation gi<g ref="char:EOLhyphen"/>ven of ſome diſgracefull language, that fell from Dr. <hi>Voetius,</hi> the learned pro<g ref="char:EOLhyphen"/>feſſor of <hi>Virecht,</hi> concerning the perſon of Dr. <hi>Hall</hi> B. of <hi>Exeter;</hi> there hath bin ſerious inquiſition made into the truth of that report; and that the ſaid Dr. <hi>Voe<g ref="char:EOLhyphen"/>tius</hi> diſavowes (to the party that inquired of it) any ſuch words of vnder-valuation, by him ſpoken, as is teſtified under the hand of Sir <hi>William Boſwell</hi> Knight, his Majeſties Lieger with the States: And, if, upon the ſight of a diſpleaſing title of a Booke (contrary to his owne judge<g ref="char:EOLhyphen"/>ment) any learned Divine, ſhould have
+<pb n="170" facs="tcp:175070:5"/>
+paſſed a cenſure upon the worke; there was ſmall reaſon for the reporters to re<g ref="char:EOLhyphen"/>flect upon the perſon of the author: Yea, I am confident, that many of our worthy brethren at home, were differe<g ref="char:cmbAbbrStroke">̄</g>tly minded concerning this Tenet of the right of <hi>Epiſ<g ref="char:EOLhyphen"/>copacy,</hi> if they would be pleaſed to informe themſelves thoroughly of the ſtate of the queſtion, as it is defended by the Author of that treatiſe, would find ſmall cauſe of ſcruple in this opinion. For whereas there are three Degrees of truthes, and ho<g ref="char:EOLhyphen"/>ly inſtitutions (as they are commonly di<g ref="char:EOLhyphen"/>ſtinguiſhed) <hi>Humane, Apoſtoli<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Divine;</hi> The firſt from mere men; The ſecond from men Apoſtolicall; The third from God himſelfe immediately; The Author de<g ref="char:EOLhyphen"/>ſires to goe a Mid-way in this difference; holding it too low to derive <hi>Epiſcopacy</hi> from a merely humane, and Eccleſiaſti<g ref="char:EOLhyphen"/>call Ordinance; holding it too high to deduce it from an immediate command from God; and therefore pitching upon an Apoſtolicall inſtitution; reſts there: but becauſe thoſe Apoſtles were divinely inſpired, and had the directions of Gods
+<pb n="171" facs="tcp:175070:5"/>
+ſpirit for thoſe things which they did for the common adminiſtration of the Church, therefore, and in that only name is <hi>Epiſcopacy</hi> ſaid to lay claime to a Divine right; howſoever alſo it cannot be gain<g ref="char:EOLhyphen"/>ſaid that the grounds were formerly layd by our Saviour in a knowne imparity of his firſt agents; Now ſurely this truth hath ſo little reaſon to diſtaſt them, that, even learned <hi>Chamier</hi> himſelfe can ſay; <hi>Res ipſa coepit tempore Apoſtolorum, vel potius ab ip<g ref="char:EOLhyphen"/>ſis profecta eſt.</hi> And why ſhould that ſeeme harſh in us, which ſoundeth well in the mouthes of leſſe-intereſſed Divines? But becauſe the very title of that Booke hath raiſed more duſt then the Treatiſe it ſelfe; Be pleaſed, Readers, to ſee, that this very queſtion is in the very ſame termes deter<g ref="char:EOLhyphen"/>mined by that eminent light of the <hi>Pala<g ref="char:EOLhyphen"/>tinate;</hi> Dr. <hi>Abrah. Scultetus;</hi> whoſe tract to this purpoſe I have thought fit to an<g ref="char:EOLhyphen"/>nexe.</p>
+            <p>Peruſe it, and judge whether of thoſe two writers have gone further in this de<g ref="char:EOLhyphen"/>termination; And if you ſhall not meet with convincing reaſons to bring you
+<pb n="172" facs="tcp:175070:6"/>
+home to this opinion; yet, at leaſt-wiſe find cauſe enough to retaine a charitable, and favourable conceit of thoſe, who are (as they thinke, upon good grounds) o<g ref="char:EOLhyphen"/>therwiſe minded; and whileſt it is on all parts agreed by wiſe and unprejudiced Chriſtians, that the calling is thus ancient and ſacred; let it not violate the peace of the Church to ſcan the originall, whether Eccleſiaſticall, Apoſtolicall, or Divine. Shortly, let all good men humbly ſubmit to the Ordinance, and heartily wiſh the Reformation of any abuſes.</p>
+            <p>
+               <hi>And ſo many as are of this mind, Peace be upon them, and the whole Iſrael of God.</hi>
+            </p>
+            <closer>Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="173" facs="tcp:175070:6" rendition="simple:additions"/>
+            <head>The Queſtion. <hi>Whether Epiſcopacie bee of</hi> Divine right? <hi>That is, whether the Apoctles ordained this Govern<g ref="char:EOLhyphen"/>ment of the Church, that not onely one ſhould bee placed over the people, but over Presbyters and Deacons, who ſhould have the power of Im<g ref="char:EOLhyphen"/>poſition of Hands, or Ordination, and the di<g ref="char:EOLhyphen"/>rection of Eccleſiaſticall Counſels.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His was anciently denyed by <hi>Aerius,</hi> as is related by <hi>Epi<g ref="char:EOLhyphen"/>phanius,</hi> in his 75 Hereſie, and by <hi>Iohn</hi> of <hi>Hieruſalem,</hi> as appeares by <hi>Hie<g ref="char:EOLhyphen"/>rome,</hi> in his Epiſtle to PAMMACHIVS. And there are not wanting in theſe many learned and pious men, who, although they acknowledge <hi>Aerius</hi> to have erred, in that hee ſhould diſallow of that manner of Eccleſiaſti<g ref="char:EOLhyphen"/>call
+<pb n="174" facs="tcp:175070:7"/>
+government, which had beene received by the whole world; yet in this they agree with him, that Epiſcopall government is not of Di<g ref="char:EOLhyphen"/>vine Right. From whoſe opinion why I ſhould ſever my judgement, J am moved by theſe ſtrong reaſons, famous examples, and evident authori<g ref="char:EOLhyphen"/>ties.</p>
+            <p>My judgement is this;</p>
+            <p>Firſt, in the <hi>Apoſtles</hi> Epiſtles the name of <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> did never ſignifie any thing different from the office of a <hi>Presbyter.</hi> For a <hi>Biſhop, Presbyter,</hi> and an <hi>Apoſtle,</hi> were common names, as you may ſee <hi>Acts</hi> 20. <hi>Phil.</hi> 1. <hi>v.</hi> 1. <hi>Tit.</hi> 1. 1. <hi>Pet. v.</hi> 12. <hi>Acts</hi> 1. 20.</p>
+            <p>
+               <hi>Next.</hi> In the chiefe Apoſtolicall Church, the Church was governed by the common advice of <hi>Presbyters;</hi> and that for ſome yeares in the time of the preaching of the <hi>Apoſtles.</hi> For firſt of all, companies muſt be gathered together, before we can define anything concerning their perpetuall government.</p>
+            <p>
+               <hi>Then,</hi> the <hi>Apoſtles,</hi> as long as they were preſent or neere their churches, did nor place any <hi>Biſhop</hi> over them, properly ſo called, but onely <hi>Presby<g ref="char:EOLhyphen"/>ters,</hi> reſerving Epiſcopall authority to them<g ref="char:EOLhyphen"/>ſelves alone.</p>
+            <p>Laſtly, after the Goſpell was faire and neere propagated, and that out of equality of <hi>Presby<g ref="char:EOLhyphen"/>ters,</hi> by the inſtinct of the Devill, <hi>Schiſmes</hi> were made in Religion, then the <hi>Apoſtles</hi> (eſpecially in
+<pb n="175" facs="tcp:175070:7"/>
+the more remote places) placed ſome over the <hi>Paſtors,</hi> or <hi>Presbyters,</hi> which ſhortly after, by the <hi>Diſciples</hi> of the <hi>Apoſtles Ignatius,</hi> and others, were onely called <hi>Biſhops,</hi> and by this appella<g ref="char:EOLhyphen"/>tion, they were diſtinguiſhed from Presbyters and Deacons.</p>
+            <p>Reaſons moving me to this opinion? Firſt, <hi>Hierome</hi> upon the 1. chapter of the Epiſtle to <hi>Titus,</hi> writeth, <hi>that a Presbyter is the ſame with a Biſhop, and before that, by the inſtinct of the Devill, factions were made in Religion, and it was ſaid a<g ref="char:EOLhyphen"/>mong the people, I am of Paul, I of Apollo, but I of Cephas, the churches were governed by the common counſell of Presbyters: afterwards it was decreed in the whole Word, that one choſen out of the Preſ<g ref="char:EOLhyphen"/>byters, ſhould be placed over the reſt,</hi>
+            </p>
+            <p>From whence J thus argue.</p>
+            <p>
+               <hi>When it began to be ſaid among the people, I am of</hi> Paul, <hi>I of</hi> Apollo, <hi>but I of</hi> Cephas, <hi>then one choſen out of the Presbyters,</hi> was placed over the reſt.</p>
+            <p>
+               <hi>But whiles the Apoſtles lived, it was ſo ſaid a<g ref="char:EOLhyphen"/>mong the people.</hi> As the firſt Epiſtle to the Co<g ref="char:EOLhyphen"/>rinthians, beſides other of St. Pauls Epiſtles, puts it out of doubt. <hi>Therefore, while the Apoſtles li<g ref="char:EOLhyphen"/>ved, one choſen out of the Presbyters was placed over the reſt.</hi>
+            </p>
+            <p>
+               <hi>Again,</hi> There can be no other terme aſſigned, in which <hi>Biſhops</hi> were firſt made, then the time of the <hi>Apoſtles;</hi> for all the prime ſucceſſors of
+<pb n="176" facs="tcp:175070:8"/>
+the <hi>Apoſtles</hi> were <hi>Biſhops:</hi> witneſſe the ſucceſ<g ref="char:EOLhyphen"/>ſions of Biſhops in the moſt famous churches of <hi>Hieruſalem, Alexandria, Antioch,</hi> and <hi>Rome,</hi> as it is in <hi>Euſebius,</hi> therefore, either the next ſuc<g ref="char:EOLhyphen"/>ceſſors of the Apoſtles, changed the force of Ec<g ref="char:EOLhyphen"/>cleſiaſticall government, received from the Apo<g ref="char:EOLhyphen"/>ſtles, according to their owne pleaſure, which is very unlikely, or the Epiſcopall government came from the Apoſtles themſelves.</p>
+            <p>Beſides, even then in the time of the Apoſtles, there were many Presbyters, but one Biſhop, e<g ref="char:EOLhyphen"/>ven then in the time of the Apoſtles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he that was placed over the reſt, which after<g ref="char:EOLhyphen"/>wards was called Biſhop, did impoſe hands, or ordaine Miniſters of the Word, which <hi>Presby<g ref="char:EOLhyphen"/>ters</hi> alone did not preſume to doe. Even then, therefore, the calling of Biſhops was diſtinct from the Office of Presbyters.</p>
+            <p>If any deſire the examples of <hi>Apoſtolicall</hi> Bi<g ref="char:EOLhyphen"/>ſhops, the books of the antient are full of y<hi rend="sup">e</hi> Epiſ<g ref="char:EOLhyphen"/>copall authority, of <hi>Timothy,</hi> and <hi>Titus,</hi> either of which, howſoever, firſt performed the office of an <hi>Evangeliſt,</hi> yet notwithſtanding, ceaſed to bee an <hi>Evangeliſt,</hi> after that <hi>Timothy</hi> was placed over the Church of <hi>Epheſus,</hi> and <hi>Titus</hi> over the church of <hi>Crete;</hi> For <hi>Evangeliſts</hi> did onely lay the foun<g ref="char:EOLhyphen"/>dations of Faith in forraigne places, and then did commend the reſt of the care to certaine Pa<g ref="char:EOLhyphen"/>ſtors, but they themſelves went to other Coun<g ref="char:EOLhyphen"/>tries, and Nations, as <hi>Euſebius</hi> writes in his 3<hi rend="sup">d</hi>. booke of Eccleſiaſticall Hiſtory, and 34. chap. But <hi>Paul</hi> taught ſometimes in <hi>Epheſus</hi> and <hi>Crete</hi>
+               <pb n="177" facs="tcp:175070:8"/>
+and laid the foundations of Faith there; there<g ref="char:EOLhyphen"/>fore he commandeth <hi>Timothy</hi> to ſtay at <hi>Epheſus,</hi> &amp; <hi>Titus</hi> at <hi>Crete,</hi> not as <hi>Evangeliſts</hi> but as gover<g ref="char:EOLhyphen"/>nors of the Churches.</p>
+            <p>And indeed, the Epiſtles, written to either of them, doe evince the ſame; For in theſe, he doth not preſcribe the manner of gathering together a church, which was the duty of an <hi>Evangeliſt,</hi> but the manner of governing a church, being already gathered togither, which is the duty of a Biſhop and all the precepts in thoſe Epiſtles, are ſo con<g ref="char:EOLhyphen"/>formable hereunto, as that they are not refer'd, in eſpeciall to <hi>Timothy,</hi> and <hi>Titus,</hi> but in generall to all Biſhops, and therefore in no wiſe, they ſuit with the temporary power of <hi>Evangeliſts.</hi>
+            </p>
+            <p>
+               <hi>Beſides,</hi> that <hi>Timothy,</hi> and <hi>Titus,</hi> had Epiſco<g ref="char:EOLhyphen"/>pall juriſdiction, not onely <hi>Euſebius, Chryſo<g ref="char:EOLhyphen"/>ſtome, Theodoret, Ambroſius, Hierome, Epiphanius, Oecumenius, Primaſius, Theophylact,</hi> but alſo the moſt antient writers, of any that write the Hiſto<g ref="char:EOLhyphen"/>ry of the new Teſtament, whoſe writings are now loſt, doe ſufficiently declare. <hi>Euſebius</hi> without doubt appealing unto thoſe, in his 3. book of Ec<g ref="char:EOLhyphen"/>cleſiaſticall Hiſtory and 4. chapter, <hi>Timothy</hi> (ſaith he) in Hiſtories is written to be the 1. which was made Biſhop of the church of Ephe<g ref="char:EOLhyphen"/>ſus, as Titus was the firſt, that was made Biſhop of the church of <hi>Crete.</hi>
+            </p>
+            <p>But if John the Apoſtle, and not any antient diſciple of the <hi>Apoſtles,</hi> be the author of the Re<g ref="char:EOLhyphen"/>velation, hee ſuggeſts unto us, thoſe ſeven new Examples of Apoſtolicall Biſhops:
+<pb n="178" facs="tcp:175070:9"/>
+For all the moſt learned Interpreters interpret the ſeven Angels of the Churches, to be the ſeven Biſhops of the Churches; neither can they doe otherwiſe, unleſſe they ſhould offer violence to the text.</p>
+            <p>What ſhould I ſpeake of <hi>Iames</hi> not the <hi>Apo<g ref="char:EOLhyphen"/>ſtle,</hi> but the brother of our <hi>Saviour,</hi> the ſonne in law, of the Mother of our Lord: who by the <hi>Apoſtles,</hi> was ordained <hi>Biſhop</hi> of <hi>Hieruſalem,</hi> as <hi>Eu<g ref="char:EOLhyphen"/>ſebius,</hi> in his 2<hi rend="sup">d</hi> book of Eccleſiaſticall Hiſtory, and 1 chap. out of the 6. of the <hi>Hypotypoſes</hi> of <hi>Cle<g ref="char:EOLhyphen"/>ment, Hierome</hi> concerning Eccleſiaſticall wri<g ref="char:EOLhyphen"/>ters, out of the 1. of the Comments of <hi>Egeſippus,</hi> relate, <hi>Ambroſe</hi> upon the 1 chap. unto the <hi>Gala<g ref="char:EOLhyphen"/>tians, Chryſoſtome</hi> in his 23. Homily upon the 15. of the <hi>Acts, Auguſtine</hi> in his 2<hi rend="sup">d</hi> book and 37 chap. againſt <hi>Creſconius, Epiphanius</hi> in his 65. He<g ref="char:EOLhyphen"/>reſie, The 6 Synod in <hi>Trullo,</hi> and 32. canon, all aſſenting thereunto. For indeed, this is that <hi>James</hi> that had his fixt reſidence at <hi>Hieruſalem,</hi> as an ordinary Biſhop, whom <hi>Paul</hi> in his firſt, and laſt comming to <hi>Hieruſalem,</hi> found in the city; al<g ref="char:EOLhyphen"/>moſt all the Apoſtles, preaching in other places, Gal. 1. 19. &amp; that concluded thoſe things, which were decreed in the aſſembly of the Apoſtles, <hi>Acts</hi> 21. For he was with <hi>Chryſoſtome,</hi> Biſhop of the Church of <hi>Hieruſalem,</hi> from whom when certaine came, <hi>Peter</hi> would not eate with the Gentiles, Galat. 2. 12.</p>
+            <p>From examples, I paſſe to authorities, which
+<pb n="179" facs="tcp:175070:9"/>
+               <hi>Ignatius</hi> confirmes by his owne authorite, Whoſe Axiomes are theſe.</p>
+            <p>
+               <hi>The Biſhop is he, which is ſuperiour in all chiefely, and power. The Presbytery, is a holy company of counſellours, and aſſeſſours to the Biſhop. The Deacons are the imitators of angelical vertues, which ſhew forth their pure, &amp; unblameable mi<g ref="char:EOLhyphen"/>niſtry. He which doth not obey theſe, is without God, impure, and contemnes</hi> Chriſt, <hi>&amp; derogates from his order, and conſtitution,</hi> in his Epiſtle to the Trallians.</p>
+            <p>Jn another place, <hi>I exhort that yee ſtudy to doe all things with concord. The Biſhop being preſident in the place of God. The Presbyters in place of the Apoſtolick Senate, the Deacons as thoſe to whom was committed the miniſtry of Ieſus Chriſt</hi> in his Epiſtle to the <hi>Magneſians.</hi>
+            </p>
+            <p>
+               <hi>And againe. Let the Presbyters be ſubject to the Biſhop, the Deacons to the Presbyters, the people to the Presbyters and Deacons,</hi> in his Epiſtle thoſe of Tarſus.</p>
+            <p>But <hi>Ignatius</hi> was the Diſciple of the <hi>Apoſtles,</hi> from whence then had he this <hi>Hierarchy</hi> but from the <hi>Apoſtles?</hi>
+            </p>
+            <p>Let us now heare <hi>Epiphanius</hi> in his 75. Here<g ref="char:EOLhyphen"/>ſie. <hi>The Apoſtles could not preſently appoint all things: Presbyters and Deacons were neceſſary; for by theſe two Eccleſiaſticall affaires might bee diſ<g ref="char:EOLhyphen"/>patcht. VVhere there was not found any fit for the Epiſcopacy, that place remained without a Biſhop,</hi>
+               <pb n="180" facs="tcp:175070:10"/>
+               <hi>but where there was need, and there were any fit for Epiſcopacy, they were made Biſhops. All things were not compleat from the beginning, but in tract of time all things were provided which were required for the perfection of thoſe things which were neceſ<g ref="char:EOLhyphen"/>ſary, the Church by this meanes receiving the ful<g ref="char:EOLhyphen"/>neſse of diſpenſation.</hi>
+            </p>
+            <p>But <hi>Euſebius</hi> comes neerer to the matter, and more ſtrongly handles the cauſe, who in his third booke of Eccleſiaſticall Hiſtory, and 22. chap<g ref="char:EOLhyphen"/>ter, as alſo in his Chronicle affirmeth, <hi>that Ero<g ref="char:EOLhyphen"/>dius was ordained the</hi> 1. <hi>Biſhop of Antioch,</hi> in the yeare of our Lord 45. in the 3. yeare of <hi>Claudius</hi> the <hi>Emperor:</hi> at which time, many of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> were alive. Now <hi>Hierome</hi> writeth to <hi>Eva<g ref="char:EOLhyphen"/>grius, that at Alexandria, from Marke the Evan<g ref="char:EOLhyphen"/>geliſt, unto Heraclus and Dioniſius the Biſhop, the Presbyters called one, choſen out of themſelves, &amp; placed in a higher Degree, the Biſhop.</hi> But <hi>Marke</hi> dyed, as <hi>Euſebius,</hi> and <hi>Bucholcerus</hi> teſtifie, in the yeare of our Lord, 64. PETER, PAVL, and JOHN the <hi>Apoſtles,</hi> being then alive: therefore, it is cleare, that <hi>Epiſcopacy</hi> was inſtituted in the time of the <hi>Apoſtles,</hi> and good <hi>Hierome</hi> ſuffered ſome frailty, when he wrote, that <hi>Biſhops were greater then Presbyters, rather by the cuſtome of the Church, then the truth of the Lords diſpoſing;</hi> unleſſe perhaps, by the cuſtome of the Church, he underſtands the cuſtome of the <hi>Apoſtles,</hi> and by the truth of the Lords diſpoſing, he underſtands the appointment of <hi>Chriſt,</hi> yet not ſo, he ſatiſfies the truth of Hi<g ref="char:EOLhyphen"/>ſtory.
+<pb n="181" facs="tcp:175070:10"/>
+For it appeares out of the firſt, ſecond, and 3. chapters of the <hi>Revelation,</hi> that the forme of governing the <hi>Church</hi> by <hi>Angels</hi> or <hi>Biſhops,</hi> was not onely ratified, and eſtabliſhed, in the time of the Apoſtles, but it was confirmed by the very Son of God. And <hi>Ignatisn</hi> called that forme, the order of <hi>Chriſt.</hi>
+            </p>
+            <p>And when <hi>Hierome</hi> writes, <hi>that it was decreed in the whole world, that one choſen out of the Pres<g ref="char:EOLhyphen"/>byters ſhould be placed over the reſt.</hi> And when J have demonſtrated, that in the life-time of the <hi>Apoſtles, Biſhops</hi> were ſuperior to <hi>Presbyters</hi> in Ordination: and that each <hi>Church</hi> had one pla<g ref="char:EOLhyphen"/>ced over it, doe we not without cauſe demand; Where, when, and, by whom Epiſcopacy was ordained? Epiſcopacy therefore is of divine right. Which, how the Prelates of the church of <hi>Rome,</hi> for almoſt 300. yeares, did adorne with the truth of Doctrine, innocency of life, conſtan<g ref="char:EOLhyphen"/>cy in afflictions, and ſuffering death it ſelfe for the honour of <hi>Chriſt;</hi> and on the other ſide, how in ſucceeding times, firſt by their ambition, next by their exceſſive pragmaticall covetouſneſſe, ſcraping up to themſelves the goods of this world, then by their hereſie, laſt of all by their tyranny they corrupted it, that the <hi>Romain Hie<g ref="char:EOLhyphen"/>rarchy,</hi> at this day, hath nothing elſe left but a vizard of the <hi>Apoſtolicall Eccleſiaſticall Hierar<g ref="char:EOLhyphen"/>chy,</hi> and the lively Image of the whore of <hi>Babylon,</hi> our Hiſtories both antient and moderne, doe a<g ref="char:EOLhyphen"/>bundantly teſtifie.</p>
+            <p>
+               <pb n="182" facs="tcp:175070:11"/>
+Wherefore all <hi>Biſhops</hi> are warned from hence, that they throughly weigh with themſelves the nature of <hi>Apoſtolicall Epiſcopacy,</hi> of which they glory that they are the ſucceſſors.</p>
+            <p>That <hi>Epiſcopacy</hi> had two things peculiar to it, the priviledge of ſucceeding, and the Prerogative of ordaining: all other things were common to them with the Presbyters: Therefore both Bi<g ref="char:EOLhyphen"/>ſhops and Preſbyters, ſhould ſo exerciſe them<g ref="char:EOLhyphen"/>ſelves in godlineſſe, ſhould ſo free themſelves from contempt by their converſation, and ſo make themſelves examples to their flocke; not neglecting eſpecially the gift of prophecying, re<g ref="char:EOLhyphen"/>ceived from above, but being wholly intent, to reading, conſolation, and teaching: to meditate on theſe things, to be wholly converſant in them; and ſo perpetually imployed in this holy functi<g ref="char:EOLhyphen"/>on, and divine affaires, with this promiſe, that if they ſhall doe theſe things, they ſhall both ſave themſelves, and their Auditors, but if after the cuſtome of ſome great ones, they follow the pride and luxury of this world, they ſhall both deſtroy themſelves, and them that heare them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175070:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
